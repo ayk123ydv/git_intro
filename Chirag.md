@@ -4,7 +4,6 @@
 
 #Class- CS-A
 
-#Roll No. - 18EARCS026
 
 ******SOME INFORMATION ABOUT YOU******
 
